@@ -1,10 +1,10 @@
-public class test
+public class testNumber
 {
 
-private int testNum
-public test(int n)
+private int testNum;
+public testNumber(int n)
 {
-  testNum = n
+  testNum = n;
 }
 public int getNum()
 {
