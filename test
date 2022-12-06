@@ -1,2 +1,14 @@
 public class test
-hi
+{
+
+private int testNum
+public test(int n)
+{
+  testNum = n
+}
+public int getNum()
+{
+  return testNum;
+}
+
+}
